@@ -1,7 +1,7 @@
 # AimLab 自动瞄准工具
 由于作者实际上不太会pid，效果可能需要精调，效果且受到分辨率影响
 ---
-
+效果参考：https://www.bilibili.com/video/BV1WU54zvEha/
 ## 目录结构
 
 ```
